@@ -6,7 +6,7 @@ package printstudentlist;
 
 /**
  *
- * @author srinivsi
+ * @author srinivsi yoyo
  */
 public class PrintStudentList {
 
